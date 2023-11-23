@@ -15,7 +15,7 @@
     "name": "Triceratops",
     "scientificName": "Triceratops horridus",
     "description": "Triceratops (del griego tri-/τρι- =\"tres\", kéras/κέρας =\"cuerno\", y -ōps/-ωψ =\"cara\"; \"cara de tres cuernos'\") es un género de dinosaurios ceratopsianos ceratópsidos, que vivieron a finales del período Cretácico, hace aproximadamente 68 y 65 millones de años, en el Maastrichtiano, en lo que hoy es Norteamérica. Es uno de los últimos géneros en aparecer antes del gran evento de extinción masiva del Cretácico-Terciario. Llevaba un gran volante del cuello óseo y tres cuernos; cuerpo grande sobre cuatro fornidas patas, y con semejanzas en aspecto con el moderno rinoceronte, Triceratops es uno de los más reconocidos de todos los dinosaurios. Aunque compartiera el territorio con el temible Tyrannosaurus y fuera cazado por él, no está claro si los dos lucharon de la manera representada a menudo en exhibiciones de museo o en imágenes populares.",
-    "shortDescription": "Triceratops es un género de dinosaurios ceratopsianos ceratópsidos, que vivieron a finales del período Cretácico",
+    "shortDescription": "Triceratops es un género de dinosaurios ceratopsianos ceratópsidos, que vivieron a finales del período Cretácico, hace 68 y 65 millones de años",
     "era": "Cretácico Tardio",
     "feeding": "Herbivoro",
     "discoveryCountry": "EE.UU",
@@ -41,6 +41,50 @@
     "feeding": "Carnivoro",
     "discoveryCountry": "EE.UU",
     "image": "https://static.wikia.nocookie.net/jurassicpark/images/8/88/FY3vrZzXwAAfklv-T.png/revision/latest?cb=20220804160841&path-prefix=es"
+  },
+  {
+    "id": 5,
+    "name": "Tyrannosaurus rex",
+    "scientificName": "Rey de los lagartos tiranos",
+    "description": "Tyrannosaurus (del gr. \"rey lagarto tirano\") es un género representado por una única especie de dinosaurio terópodo tiranosáurido, que vivió finales del período Cretácico, hace aproximadamente entre 68 y 65 millones de años, en el Maastrichtiano, en lo que es hoy Norteamérica. La especie tipo y única especie válida donde rex significa rey en latín, comúnmente abreviado como T. rex, es una figura común en la cultura popular. Vivió a través de lo que es ahora Norteamérica occidental, con una distribución mucho más amplia que otros tiranosáuridos. Es uno de los últimos dinosaurios no avianos en existir antes de la extinción masiva del Cretácico-Terciario.",
+    "era": "Cretácico Tardio",
+    "feeding": "Carnivoro",
+    "discoveryCountry": "EE.UU",
+    "image": "https://static.wikia.nocookie.net/jurassicpark/images/8/88/FY3vrZzXwAAfklv-T.png/revision/latest?cb=20220804160841&path-prefix=es",
+    "speciments": ["Terry", "Rexy", "Stan", "Sue"]
+  },
+  {
+    "id": 5,
+    "name": "Tyrannosaurus rex",
+    "scientificName": "Rey de los lagartos tiranos",
+    "description": "Tyrannosaurus (del gr. \"rey lagarto tirano\") es un género representado por una única especie de dinosaurio terópodo tiranosáurido, que vivió finales del período Cretácico, hace aproximadamente entre 68 y 65 millones de años, en el Maastrichtiano, en lo que es hoy Norteamérica. La especie tipo y única especie válida donde rex significa rey en latín, comúnmente abreviado como T. rex, es una figura común en la cultura popular. Vivió a través de lo que es ahora Norteamérica occidental, con una distribución mucho más amplia que otros tiranosáuridos. Es uno de los últimos dinosaurios no avianos en existir antes de la extinción masiva del Cretácico-Terciario.",
+    "era": "Cretácico Tardio",
+    "feeding": "Carnivoro",
+    "discoveryCountry": "EE.UU",
+    "image": "https://static.wikia.nocookie.net/jurassicpark/images/8/88/FY3vrZzXwAAfklv-T.png/revision/latest?cb=20220804160841&path-prefix=es",
+    "speciments": ["Terry", "Rexy", "Stan", "Sue"]
+  },
+  {
+    "id": 5,
+    "name": "Tyrannosaurus rex",
+    "scientificName": "Rey de los lagartos tiranos",
+    "description": "Tyrannosaurus (del gr. \"rey lagarto tirano\") es un género representado por una única especie de dinosaurio terópodo tiranosáurido, que vivió finales del período Cretácico, hace aproximadamente entre 68 y 65 millones de años, en el Maastrichtiano, en lo que es hoy Norteamérica. La especie tipo y única especie válida donde rex significa rey en latín, comúnmente abreviado como T. rex, es una figura común en la cultura popular. Vivió a través de lo que es ahora Norteamérica occidental, con una distribución mucho más amplia que otros tiranosáuridos. Es uno de los últimos dinosaurios no avianos en existir antes de la extinción masiva del Cretácico-Terciario.",
+    "era": "Cretácico Tardio",
+    "feeding": "Carnivoro",
+    "discoveryCountry": "EE.UU",
+    "image": "https://static.wikia.nocookie.net/jurassicpark/images/8/88/FY3vrZzXwAAfklv-T.png/revision/latest?cb=20220804160841&path-prefix=es",
+    "speciments": ["Terry", "Rexy", "Stan", "Sue"]
+  },
+  {
+    "id": 5,
+    "name": "Tyrannosaurus rex",
+    "scientificName": "Rey de los lagartos tiranos",
+    "description": "Tyrannosaurus (del gr. \"rey lagarto tirano\") es un género representado por una única especie de dinosaurio terópodo tiranosáurido, que vivió finales del período Cretácico, hace aproximadamente entre 68 y 65 millones de años, en el Maastrichtiano, en lo que es hoy Norteamérica. La especie tipo y única especie válida donde rex significa rey en latín, comúnmente abreviado como T. rex, es una figura común en la cultura popular. Vivió a través de lo que es ahora Norteamérica occidental, con una distribución mucho más amplia que otros tiranosáuridos. Es uno de los últimos dinosaurios no avianos en existir antes de la extinción masiva del Cretácico-Terciario.",
+    "era": "Cretácico Tardio",
+    "feeding": "Carnivoro",
+    "discoveryCountry": "EE.UU",
+    "image": "https://static.wikia.nocookie.net/jurassicpark/images/8/88/FY3vrZzXwAAfklv-T.png/revision/latest?cb=20220804160841&path-prefix=es",
+    "speciments": ["Terry", "Rexy", "Stan", "Sue"]
   },
   {
     "id": 5,
