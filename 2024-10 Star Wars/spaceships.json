@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "nombre": "Millennium Falcon",
-    "empresa_fabricacion": "Corporación de Ingeniería Corelliana",
-    "raza_origen": "Corelliano",
-    "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/A_screenshot_from_Star_Wars_Episode_IV_A_New_Hope_depicting_the_Millennium_Falcon.jpg",
+    "nombre": "Star Destroyer",
+    "empresa_fabricacion": "Kuat Drive Yards",
+    "raza_origen": "Diversas",
+    "imagen": "https://lumiere-a.akamaihd.net/v1/images/Star-Destroyer_ab6b94bb.jpeg?region=0%2C0%2C1600%2C900",
     "costo": "Costo variable",
-    "descripcion": "El Millennium Falcon es una nave espacial modificada YT-1300 que se convirtió en una de las naves más famosas de la galaxia debido a su velocidad y durabilidad. Es propiedad de Han Solo y Chewbacca.",
-    "bando": "Rebelión"
+    "descripcion": "El Star Destroyer es una nave de guerra masiva utilizada por el Imperio Galáctico para proyectar su poderío militar en toda la galaxia. Es conocida por su imponente tamaño y su capacidad para llevar a cabo operaciones a gran escala.",
+    "bando": "Imperio"
   },
   {
     "id": 2,
@@ -41,13 +41,13 @@
   },
   {
     "id": 5,
-    "nombre": "Star Destroyer",
-    "empresa_fabricacion": "Kuat Drive Yards",
-    "raza_origen": "Diversas",
-    "imagen": "https://lumiere-a.akamaihd.net/v1/images/Star-Destroyer_ab6b94bb.jpeg?region=0%2C0%2C1600%2C900",
+    "nombre": "Millennium Falcon",
+    "empresa_fabricacion": "Corporación de Ingeniería Corelliana",
+    "raza_origen": "Corelliano",
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/A_screenshot_from_Star_Wars_Episode_IV_A_New_Hope_depicting_the_Millennium_Falcon.jpg",
     "costo": "Costo variable",
-    "descripcion": "El Star Destroyer es una nave de guerra masiva utilizada por el Imperio Galáctico para proyectar su poderío militar en toda la galaxia. Es conocida por su imponente tamaño y su capacidad para llevar a cabo operaciones a gran escala.",
-    "bando": "Imperio"
+    "descripcion": "El Millennium Falcon es una nave espacial modificada YT-1300 que se convirtió en una de las naves más famosas de la galaxia debido a su velocidad y durabilidad. Es propiedad de Han Solo y Chewbacca.",
+    "bando": "Rebelión"
   },
   {
     "id": 6,
