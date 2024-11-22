@@ -2,24 +2,24 @@
   "id": 2,
   "name": "Misty",
   "age": 10,
-  "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/fd/latest/20180812024731/Misty_LGPE.png/250px-Misty_LGPE.png",
+  "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/a/a7/latest/20170829165448/Misty_serie_SL.png",
   "smallSnopsies": "Misty is a character whose first appearance was in the very first episode of the Pokémon anime. She is the Gym Leader of the Cerulean Gym but is often away traveling and competing in Pokémon Contests.",
   "bigSnopsies": "Misty is a character whose first appearance was in the very first episode of the Pokémon anime. She is the Gym Leader of the Cerulean Gym but is often away traveling and competing in Pokémon Contests. She is a Water-type Pokémon Trainer and former traveling companion of Ash Ketchum. She is the Gym Leader of the Cerulean Gym but is often away traveling and competing in Pokémon Contests.",
   "pokemons": [
     {
-      "id": 4,
+      "id": 5,
       "name": "Psyduck",
       "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/32/latest/20230614194705/Psyduck.png/200px-Psyduck.png",
       "type": "Water",
-      "abilities": ["Damp"],
+      "abilities": ["Damp", "Cloud Nine"],
       "level": 100
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Starmie",
       "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/56/latest/20230702052551/Starmie.png/200px-Starmie.png",
       "type": "Water/Psychic",
-      "abilities": ["Illuminate"],
+      "abilities": ["Illuminate", "Natural Cure", "Analytic"],
       "level": 70
     },
     {
@@ -27,7 +27,7 @@
       "name": "Goldeen",
       "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/99/latest/20230702052345/Goldeen.png/200px-Goldeen.png",
       "type": "Water",
-      "abilities": ["Swift Swim"],
+      "abilities": ["Swift Swim", "Water Veil", "Lightning Rod"],
       "level": 60
     }
   ]

@@ -11,7 +11,7 @@
       "name": "Pikachu",
       "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/77/latest/20150621181250/Pikachu.png/200px-Pikachu.png",
       "type": "Electric",
-      "abilities": ["Static"],
+      "abilities": ["Static", "Lightning Rod"],
       "level": 100
     },
     {
@@ -19,7 +19,7 @@
       "name": "Bulbasaur",
       "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20190406170624/Bulbasaur.png/200px-Bulbasaur.png",
       "type": "Grass/Poison",
-      "abilities": ["Overgrow"],
+      "abilities": ["Overgrow", "Chlorophyll"],
       "level": 10
     },
     {
@@ -27,8 +27,16 @@
       "name": "Charizard",
       "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/95/latest/20160817212623/Charizard.png/200px-Charizard.png",
       "type": "Fire/Flying",
-      "abilities": ["Blaze"],
+      "abilities": ["Blaze", "Solar Power", "Tough Claws"],
       "level": 50
+    },
+    {
+      "id": 4,
+      "name": "Squirtle",
+      "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e3/latest/20160309230820/Squirtle.png/200px-Squirtle.png",
+      "type": "Water",
+      "abilities": ["Torrent", "Rain Dish", "Shell Armor"],
+      "level": 30
     }
   ]
 }

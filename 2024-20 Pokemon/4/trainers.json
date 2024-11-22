@@ -1,0 +1,58 @@
+{
+  "id": 4,
+  "name": "Cintia",
+  "age": 27,
+  "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/cb/latest/20220716143241/Cynthia_%28Viajes_Pok%C3%A9mon%29.png/250px-Cynthia_%28Viajes_Pok%C3%A9mon%29.png",
+  "smallSnopsies": "Cynthia is a Pokémon Trainer from Celestic Town. She is the Champion of the Sinnoh region and is known for her powerful Garchomp.",
+  "bigSnopsies": " Cynthia is a Pokémon Trainer from Celestic Town. She is the Champion of the Sinnoh region and is known for her powerful Garchomp. Cynthia is a Pokémon Trainer from Celestic Town. She is the Champion of the Sinnoh region and is known for her powerful Garchomp. Cynthia is a Pokémon Trainer from Celestic Town. She is the Champion of the Sinnoh region and is known for her powerful Garchomp.",
+  "pokemons": [
+    {
+      "id": 10,
+      "name": "Garchomp",
+      "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e4/latest/20151006162718/Garchomp.png/200px-Garchomp.png",
+      "type": "Dragon/Ground",
+      "abilities": ["Sand Veil", "Rough Skin"],
+      "level": 100
+    },
+    {
+      "id": 11,
+      "name": "Lucario",
+      "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d0/latest/20150621180604/Lucario.png/200px-Lucario.png",
+      "type": "Fighting/Steel",
+      "abilities": ["Inner Focus", "Steadfast"],
+      "level": 88
+    },
+    {
+      "id": 12,
+      "name": "Milotic",
+      "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/4b/latest/20230614194705/Milotic.png/200px-Milotic.png",
+      "type": "Water",
+      "abilities": ["Marvel Scale"],
+      "level": 77
+    },
+    {
+      "id": 13,
+      "name": "Spiritomb",
+      "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/4b/latest/20230614194705/Spiritomb.png/200px-Spiritomb.png",
+      "type": "Ghost/Dark",
+      "abilities": ["Pressure"],
+      "level": 66
+    },
+    {
+      "id": 14,
+      "name": "Togekiss",
+      "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/4b/latest/20230614194705/Togekiss.png/200px-Togekiss.png",
+      "type": "Fairy/Flying",
+      "abilities": ["Hustle"],
+      "level": 55
+    },
+    {
+      "id": 15,
+      "name": "Rosarade",
+      "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/82/latest/20200720153230/Roserade.png/200px-Roserade.png",
+      "type": "Grass/Poison",
+      "abilities": ["Natural Cure"],
+      "level": 44
+    }
+  ]
+}
