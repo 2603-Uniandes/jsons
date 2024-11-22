@@ -12,7 +12,7 @@
         "name": "Pikachu",
         "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/77/latest/20150621181250/Pikachu.png/200px-Pikachu.png",
         "type": "Electric",
-        "abilities": ["Static"],
+        "abilities": ["Static", "Lightning Rod"],
         "level": 100
       },
       {
@@ -20,7 +20,7 @@
         "name": "Bulbasaur",
         "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20190406170624/Bulbasaur.png/200px-Bulbasaur.png",
         "type": "Grass/Poison",
-        "abilities": ["Overgrow"],
+        "abilities": ["Overgrow", "Chlorophyll"],
         "level": 10
       },
       {
@@ -28,8 +28,16 @@
         "name": "Charizard",
         "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/95/latest/20160817212623/Charizard.png/200px-Charizard.png",
         "type": "Fire/Flying",
-        "abilities": ["Blaze"],
+        "abilities": ["Blaze", "Solar Power", "Tough Claws"],
         "level": 50
+      },
+      {
+        "id": 4,
+        "name": "Squirtle",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e3/latest/20160309230820/Squirtle.png/200px-Squirtle.png",
+        "type": "Water",
+        "abilities": ["Torrent", "Rain Dish", "Shell Armor"],
+        "level": 30
       }
     ]
   },
@@ -37,24 +45,24 @@
     "id": 2,
     "name": "Misty",
     "age": 10,
-    "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/fd/latest/20180812024731/Misty_LGPE.png/250px-Misty_LGPE.png",
+    "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/a/a7/latest/20170829165448/Misty_serie_SL.png",
     "smallSnopsies": "Misty is a character whose first appearance was in the very first episode of the Pokémon anime. She is the Gym Leader of the Cerulean Gym but is often away traveling and competing in Pokémon Contests.",
     "bigSnopsies": "Misty is a character whose first appearance was in the very first episode of the Pokémon anime. She is the Gym Leader of the Cerulean Gym but is often away traveling and competing in Pokémon Contests. She is a Water-type Pokémon Trainer and former traveling companion of Ash Ketchum. She is the Gym Leader of the Cerulean Gym but is often away traveling and competing in Pokémon Contests.",
     "pokemons": [
       {
-        "id": 4,
+        "id": 5,
         "name": "Psyduck",
         "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/32/latest/20230614194705/Psyduck.png/200px-Psyduck.png",
         "type": "Water",
-        "abilities": ["Damp"],
+        "abilities": ["Damp", "Cloud Nine"],
         "level": 100
       },
       {
-        "id": 5,
+        "id": 6,
         "name": "Starmie",
         "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/56/latest/20230702052551/Starmie.png/200px-Starmie.png",
         "type": "Water/Psychic",
-        "abilities": ["Illuminate"],
+        "abilities": ["Illuminate", "Natural Cure", "Analytic"],
         "level": 70
       },
       {
@@ -62,7 +70,7 @@
         "name": "Goldeen",
         "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/99/latest/20230702052345/Goldeen.png/200px-Goldeen.png",
         "type": "Water",
-        "abilities": ["Swift Swim"],
+        "abilities": ["Swift Swim", "Water Veil", "Lightning Rod"],
         "level": 60
       }
     ]
@@ -71,7 +79,7 @@
     "id": 3,
     "name": "Brock",
     "age": 15,
-    "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/3b/latest/20180812021535/Brock_LGPE.png/250px-Brock_LGPE.png",
+    "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/5/5b/latest/20170829165448/Brock_serie_SL.png",
     "smallSnopsies": "Brock is a character whose first appearance was in the very first episode of the Pokémon anime. He is the Gym Leader of Pewter City and specializes in Rock-type Pokémon.",
     "bigSnopsies": "Brock is a character whose first appearance was in the very first episode of the Pokémon anime. He is the Gym Leader of Pewter City and specializes in Rock-type Pokémon. He is also the Pewter City Gym Leader and a former traveling companion of Ash Ketchum. He specializes in Rock-type Pokémon. Brock is a character whose first appearance was in the very first episode of the Pokémon anime. He is the Gym Leader of Pewter City and specializes in Rock-type Pokémon.",
     "pokemons": [
@@ -80,7 +88,7 @@
         "name": "Onix",
         "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b2/latest/20141214194849/Onix.png/200px-Onix.png",
         "type": "Rock/Ground",
-        "abilities": ["Rock Head"],
+        "abilities": ["Rock Head", "Sturdy", "Weak Armor"],
         "level": 10
       },
       {
@@ -88,83 +96,99 @@
         "name": "Geodude",
         "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/12/latest/20230620061559/Geodude.png/200px-Geodude.png",
         "type": "Rock/Ground",
-        "abilities": ["Rock Head"],
+        "abilities": ["Rock Head", "Sturdy", "Sand Veil"],
         "level": 30
-      },
-      {
-        "id": 9,
-        "name": "Zubat",
-        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/67/latest/20230617053751/Zubat.png/200px-Zubat.png",
-        "type": "Poison/Flying",
-        "abilities": ["Inner Focus"],
-        "level": 66
       }
     ]
   },
   {
-    "id": 3,
-    "name": "Brock",
-    "age": 15,
-    "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/3b/latest/20180812021535/Brock_LGPE.png/250px-Brock_LGPE.png",
-    "smallSnopsies": "Brock is a character whose first appearance was in the very first episode of the Pokémon anime. He is the Gym Leader of Pewter City and specializes in Rock-type Pokémon.",
-    "bigSnopsies": "Brock is a character whose first appearance was in the very first episode of the Pokémon anime. He is the Gym Leader of Pewter City and specializes in Rock-type Pokémon. He is also the Pewter City Gym Leader and a former traveling companion of Ash Ketchum. He specializes in Rock-type Pokémon. Brock is a character whose first appearance was in the very first episode of the Pokémon anime. He is the Gym Leader of Pewter City and specializes in Rock-type Pokémon.",
+    "id": 4,
+    "name": "Cintia",
+    "age": 27,
+    "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/cb/latest/20220716143241/Cynthia_%28Viajes_Pok%C3%A9mon%29.png/250px-Cynthia_%28Viajes_Pok%C3%A9mon%29.png",
+    "smallSnopsies": "Cynthia is a Pokémon Trainer from Celestic Town. She is the Champion of the Sinnoh region and is known for her powerful Garchomp.",
+    "bigSnopsies": " Cynthia is a Pokémon Trainer from Celestic Town. She is the Champion of the Sinnoh region and is known for her powerful Garchomp. Cynthia is a Pokémon Trainer from Celestic Town. She is the Champion of the Sinnoh region and is known for her powerful Garchomp. Cynthia is a Pokémon Trainer from Celestic Town. She is the Champion of the Sinnoh region and is known for her powerful Garchomp.",
     "pokemons": [
       {
-        "id": 7,
-        "name": "Onix",
-        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b2/latest/20141214194849/Onix.png/200px-Onix.png",
-        "type": "Rock/Ground",
-        "abilities": ["Rock Head"],
-        "level": 10
+        "id": 10,
+        "name": "Garchomp",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e4/latest/20151006162718/Garchomp.png/200px-Garchomp.png",
+        "type": "Dragon/Ground",
+        "abilities": ["Sand Veil", "Rough Skin"],
+        "level": 100
       },
       {
-        "id": 8,
-        "name": "Geodude",
-        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/12/latest/20230620061559/Geodude.png/200px-Geodude.png",
-        "type": "Rock/Ground",
-        "abilities": ["Rock Head"],
-        "level": 30
+        "id": 11,
+        "name": "Lucario",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d0/latest/20150621180604/Lucario.png/200px-Lucario.png",
+        "type": "Fighting/Steel",
+        "abilities": ["Inner Focus", "Steadfast"],
+        "level": 88
       },
       {
-        "id": 9,
-        "name": "Zubat",
-        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/67/latest/20230617053751/Zubat.png/200px-Zubat.png",
-        "type": "Poison/Flying",
-        "abilities": ["Inner Focus"],
+        "id": 12,
+        "name": "Milotic",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/4b/latest/20230614194705/Milotic.png/200px-Milotic.png",
+        "type": "Water",
+        "abilities": ["Marvel Scale"],
+        "level": 77
+      },
+      {
+        "id": 13,
+        "name": "Spiritomb",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/4b/latest/20230614194705/Spiritomb.png/200px-Spiritomb.png",
+        "type": "Ghost/Dark",
+        "abilities": ["Pressure"],
         "level": 66
+      },
+      {
+        "id": 14,
+        "name": "Togekiss",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/4b/latest/20230614194705/Togekiss.png/200px-Togekiss.png",
+        "type": "Fairy/Flying",
+        "abilities": ["Hustle"],
+        "level": 55
+      },
+      {
+        "id": 15,
+        "name": "Rosarade",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/82/latest/20200720153230/Roserade.png/200px-Roserade.png",
+        "type": "Grass/Poison",
+        "abilities": ["Natural Cure"],
+        "level": 44
       }
     ]
   },
   {
-    "id": 3,
-    "name": "Brock",
-    "age": 15,
-    "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/3b/latest/20180812021535/Brock_LGPE.png/250px-Brock_LGPE.png",
-    "smallSnopsies": "Brock is a character whose first appearance was in the very first episode of the Pokémon anime. He is the Gym Leader of Pewter City and specializes in Rock-type Pokémon.",
-    "bigSnopsies": "Brock is a character whose first appearance was in the very first episode of the Pokémon anime. He is the Gym Leader of Pewter City and specializes in Rock-type Pokémon. He is also the Pewter City Gym Leader and a former traveling companion of Ash Ketchum. He specializes in Rock-type Pokémon. Brock is a character whose first appearance was in the very first episode of the Pokémon anime. He is the Gym Leader of Pewter City and specializes in Rock-type Pokémon.",
+    "id": 5,
+    "name": "Lionel",
+    "age": 26,
+    "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/be/latest/20220314191026/Lionel.png/250px-Lionel.png",
+    "smallSnopsies": "Lionel is a Pokémon Trainer from the Galar region. He is the Champion of the Galar region and is known for his powerful Charizard Gigamax.",
+    "bigSnopsies": "Lionel is a Pokémon Trainer from the Galar region. He is the Champion of the Galar region and is known for his powerful Charizard Gigamax. Lionel is a Pokémon Trainer from the Galar region. He is the Champion of the Galar region and is known for his powerful Charizard Gigamax. Lionel is a Pokémon Trainer from the Galar region. He is the Champion of the Galar region and is known for his powerful Charizard Gigamax.",
     "pokemons": [
       {
-        "id": 7,
-        "name": "Onix",
-        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b2/latest/20141214194849/Onix.png/200px-Onix.png",
-        "type": "Rock/Ground",
-        "abilities": ["Rock Head"],
-        "level": 10
+        "id": 16,
+        "name": "Charizard",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/95/latest/20160817212623/Charizard.png/200px-Charizard.png",
+        "type": "Fire/Flying",
+        "abilities": ["Blaze", "Solar Power", "Tough Claws"],
+        "level": 100
       },
       {
-        "id": 8,
-        "name": "Geodude",
-        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/12/latest/20230620061559/Geodude.png/200px-Geodude.png",
-        "type": "Rock/Ground",
-        "abilities": ["Rock Head"],
-        "level": 30
+        "id": 17,
+        "name": "Dragapult",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/4b/latest/20190922182545/Dragapult.png/200px-Dragapult.png",
+        "type": "Dragon/Ghost",
+        "abilities": ["Clear Body", "Infiltrator"],
+        "level": 77
       },
       {
-        "id": 9,
-        "name": "Zubat",
-        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/67/latest/20230617053751/Zubat.png/200px-Zubat.png",
-        "type": "Poison/Flying",
-        "abilities": ["Inner Focus"],
+        "id": 18,
+        "name": "Ageislash",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/86/latest/20190423163814/Aegislash.png/200px-Aegislash.png",
+        "type": "Steel/Ghost",
+        "abilities": ["Stance Change"],
         "level": 66
       }
     ]
