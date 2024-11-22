@@ -1,0 +1,34 @@
+{
+  "id": 2,
+  "name": "Misty",
+  "age": 10,
+  "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/fd/latest/20180812024731/Misty_LGPE.png/250px-Misty_LGPE.png",
+  "smallSnopsies": "Misty is a character whose first appearance was in the very first episode of the Pokémon anime. She is the Gym Leader of the Cerulean Gym but is often away traveling and competing in Pokémon Contests.",
+  "bigSnopsis": "Misty is a character whose first appearance was in the very first episode of the Pokémon anime. She is the Gym Leader of the Cerulean Gym but is often away traveling and competing in Pokémon Contests.",
+  "pokemons": [
+    {
+      "id": 4,
+      "name": "Psyduck",
+      "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/32/latest/20230614194705/Psyduck.png/200px-Psyduck.png",
+      "type": "Water",
+      "abilities": ["Damp"],
+      "level": 100
+    },
+    {
+      "id": 5,
+      "name": "Starmie",
+      "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/56/latest/20230702052551/Starmie.png/200px-Starmie.png",
+      "type": "Water/Psychic",
+      "abilities": ["Illuminate"],
+      "level": 70
+    },
+    {
+      "id": 6,
+      "name": "Goldeen",
+      "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/99/latest/20230702052345/Goldeen.png/200px-Goldeen.png",
+      "type": "Water",
+      "abilities": ["Swift Swim"],
+      "level": 60
+    }
+  ]
+}

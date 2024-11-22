@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Ash Ketchum",
+    "age": 10,
+    "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/02/latest/20221113131941/Ash_%28Viajes_Pok%C3%A9mon%29_2.png/250px-Ash_%28Viajes_Pok%C3%A9mon%29_2.png",
+    "smallSnopsies": "Ash Ketchum is the main character of the Pokémon anime. He is also the main character of various manga based on the anime, including The Electric Tale of Pikachu, Ash & Pikachu, and Pocket Monsters Diamond & Pearl.",
+    "bigSnopsis": "Ash Ketchum is a Pokémon Trainer from Pallet Town whose goal is to become a Pokémon Master. He is the main protagonist of I Choose You! and its sequel, Pokémon Journeys: The Series.",
+    "pokemons": [
+      {
+        "id": 1,
+        "name": "Pikachu",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/77/latest/20150621181250/Pikachu.png/200px-Pikachu.png",
+        "type": "Electric",
+        "abilities": ["Static"],
+        "level": 100
+      },
+      {
+        "id": 2,
+        "name": "Bulbasaur",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20190406170624/Bulbasaur.png/200px-Bulbasaur.png",
+        "type": "Grass/Poison",
+        "abilities": ["Overgrow"],
+        "level": 10
+      },
+      {
+        "id": 3,
+        "name": "Charizard",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/95/latest/20160817212623/Charizard.png/200px-Charizard.png",
+        "type": "Fire/Flying",
+        "abilities": ["Blaze"],
+        "level": 50
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Misty",
+    "age": 10,
+    "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/fd/latest/20180812024731/Misty_LGPE.png/250px-Misty_LGPE.png",
+    "smallSnopsies": "Misty is a character whose first appearance was in the very first episode of the Pokémon anime. She is the Gym Leader of the Cerulean Gym but is often away traveling and competing in Pokémon Contests.",
+    "bigSnopsis": "Misty is a character whose first appearance was in the very first episode of the Pokémon anime. She is the Gym Leader of the Cerulean Gym but is often away traveling and competing in Pokémon Contests.",
+    "pokemons": [
+      {
+        "id": 4,
+        "name": "Psyduck",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/32/latest/20230614194705/Psyduck.png/200px-Psyduck.png",
+        "type": "Water",
+        "abilities": ["Damp"],
+        "level": 100
+      },
+      {
+        "id": 5,
+        "name": "Starmie",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/56/latest/20230702052551/Starmie.png/200px-Starmie.png",
+        "type": "Water/Psychic",
+        "abilities": ["Illuminate"],
+        "level": 70
+      },
+      {
+        "id": 6,
+        "name": "Goldeen",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/99/latest/20230702052345/Goldeen.png/200px-Goldeen.png",
+        "type": "Water",
+        "abilities": ["Swift Swim"],
+        "level": 60
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Brock",
+    "age": 15,
+    "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/3b/latest/20180812021535/Brock_LGPE.png/250px-Brock_LGPE.png",
+    "smallSnopsies": "Brock is a character whose first appearance was in the very first episode of the Pokémon anime. He is the Gym Leader of Pewter City and specializes in Rock-type Pokémon.",
+    "bigSnopsis": "Brock is a character whose first appearance was in the very first episode of the Pokémon anime. He is the Gym Leader of Pewter City and specializes in Rock-type Pokémon.",
+    "pokemons": [
+      {
+        "id": 7,
+        "name": "Onix",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b2/latest/20141214194849/Onix.png/200px-Onix.png",
+        "type": "Rock/Ground",
+        "abilities": ["Rock Head"],
+        "level": 10
+      },
+      {
+        "id": 8,
+        "name": "Geodude",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/12/latest/20230620061559/Geodude.png/200px-Geodude.png",
+        "type": "Rock/Ground",
+        "abilities": ["Rock Head"],
+        "level": 30
+      },
+      {
+        "id": 9,
+        "name": "Zubat",
+        "imageUrl": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/67/latest/20230617053751/Zubat.png/200px-Zubat.png",
+        "type": "Poison/Flying",
+        "abilities": ["Inner Focus"],
+        "level": 66
+      }
+    ]
+  }
+]
