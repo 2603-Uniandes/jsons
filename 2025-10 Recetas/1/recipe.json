@@ -1,0 +1,47 @@
+{
+    "id": 1,
+    "nombre": "Ensalada César",
+    "porciones": 2,
+    "ingredientes": [
+        {
+            "nombre": "lechuga romana",
+            "cantidad": "1",
+            "unidad": "unidad"
+        },
+        {
+            "nombre": "pechuga de pollo",
+            "cantidad": "200",
+            "unidad": "gramos"
+        },
+        {
+            "nombre": "queso parmesano",
+            "cantidad": "50",
+            "unidad": "gramos"
+        },
+        {
+            "nombre": "crutones",
+            "cantidad": "1",
+            "unidad": "taza"
+        },
+        {
+            "nombre": "aderezo César",
+            "cantidad": "4",
+            "unidad": "cucharadas"
+        }
+    ],
+    "pasos": [
+        "Lavar y trocear la lechuga.",
+        "Cocinar el pollo a la plancha y cortarlo en tiras.",
+        "Mezclar lechuga, pollo, crutones y parmesano.",
+        "Agregar el aderezo César y servir."
+    ],
+    "tiempo_minutos": 15,
+    "dificultad": "fácil",
+    "tipo": "almuerzo",
+    "etiquetas": [
+        "rápido",
+        "saludable",
+        "ensalada"
+    ],
+    "imagen": "https://www.goodnes.com/sites/g/files/jgfbjl321/files/srh_recipes/755f697272cbcdc6e5df2adb44b1b705.jpg"
+}

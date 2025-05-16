@@ -1,0 +1,47 @@
+{
+    "id": 4,
+    "nombre": "Sopa de Verduras",
+    "porciones": 4,
+    "ingredientes": [
+        {
+            "nombre": "zanahoria",
+            "cantidad": "2",
+            "unidad": "unidades"
+        },
+        {
+            "nombre": "papa",
+            "cantidad": "1",
+            "unidad": "unidad"
+        },
+        {
+            "nombre": "apio",
+            "cantidad": "2",
+            "unidad": "ramas"
+        },
+        {
+            "nombre": "agua",
+            "cantidad": "1",
+            "unidad": "litro"
+        },
+        {
+            "nombre": "sal",
+            "cantidad": "al gusto",
+            "unidad": ""
+        }
+    ],
+    "pasos": [
+        "Pelar y cortar las verduras.",
+        "Hervir el agua y agregar las verduras.",
+        "Cocinar por 30 minutos o hasta que estén blandas.",
+        "Agregar sal al gusto y servir caliente."
+    ],
+    "tiempo_minutos": 35,
+    "dificultad": "fácil",
+    "tipo": "cena",
+    "etiquetas": [
+        "ligero",
+        "vegetariano",
+        "económico"
+    ],
+    "imagen": "https://www.biotona.be/wp-content/uploads/liver-cleansing-phyto-detox-soup-9_2343c13453aca0a8e8a77fb3e0e75f42_2000.jpg"
+}

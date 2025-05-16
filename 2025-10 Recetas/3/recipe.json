@@ -1,0 +1,47 @@
+{
+    "id": 3,
+    "nombre": "Pasta con Tomate y Albahaca",
+    "porciones": 2,
+    "ingredientes": [
+        {
+            "nombre": "pasta",
+            "cantidad": "200",
+            "unidad": "gramos"
+        },
+        {
+            "nombre": "tomates",
+            "cantidad": "3",
+            "unidad": "unidades"
+        },
+        {
+            "nombre": "ajo",
+            "cantidad": "2",
+            "unidad": "dientes"
+        },
+        {
+            "nombre": "aceite de oliva",
+            "cantidad": "2",
+            "unidad": "cucharadas"
+        },
+        {
+            "nombre": "albahaca fresca",
+            "cantidad": "1",
+            "unidad": "puñado"
+        }
+    ],
+    "pasos": [
+        "Hervir la pasta según las instrucciones.",
+        "Saltear ajo y tomate en aceite de oliva.",
+        "Agregar la albahaca y mezclar con la pasta cocida.",
+        "Servir caliente."
+    ],
+    "tiempo_minutos": 20,
+    "dificultad": "media",
+    "tipo": "almuerzo",
+    "etiquetas": [
+        "vegetariano",
+        "rápido",
+        "italiano"
+    ],
+    "images": "https://d36fw6y2wq3bat.cloudfront.net/recipes/espaguetis-con-tomate-y-albahaca/900/espaguetis-con-tomate-y-albahaca.jpg"
+}

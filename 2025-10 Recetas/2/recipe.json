@@ -1,0 +1,47 @@
+{
+    "id": 2,
+    "nombre": "Tostadas Francesas",
+    "porciones": 2,
+    "ingredientes": [
+        {
+            "nombre": "pan tajado",
+            "cantidad": "4",
+            "unidad": "rebanadas"
+        },
+        {
+            "nombre": "huevo",
+            "cantidad": "2",
+            "unidad": "unidades"
+        },
+        {
+            "nombre": "leche",
+            "cantidad": "100",
+            "unidad": "ml"
+        },
+        {
+            "nombre": "canela",
+            "cantidad": "1",
+            "unidad": "cucharadita"
+        },
+        {
+            "nombre": "mantequilla",
+            "cantidad": "1",
+            "unidad": "cucharada"
+        }
+    ],
+    "pasos": [
+        "Batir huevos con leche y canela.",
+        "Sumergir el pan en la mezcla.",
+        "Cocinar en una sartén con mantequilla hasta dorar.",
+        "Servir con miel o frutas si se desea."
+    ],
+    "tiempo_minutos": 10,
+    "dificultad": "fácil",
+    "tipo": "desayuno",
+    "etiquetas": [
+        "dulce",
+        "rápido",
+        "económico"
+    ],
+    "images": "https://cdn.elcocinerocasero.com/imagen/receta/1200/2023-02-24-20-41-28/tostadas-francesas.jpeg"
+}

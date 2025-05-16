@@ -1,0 +1,47 @@
+{
+    "id": 5,
+    "nombre": "Arroz con Pollo",
+    "porciones": 4,
+    "ingredientes": [
+        {
+            "nombre": "arroz",
+            "cantidad": "1",
+            "unidad": "taza"
+        },
+        {
+            "nombre": "pollo en trozos",
+            "cantidad": "500",
+            "unidad": "gramos"
+        },
+        {
+            "nombre": "cebolla",
+            "cantidad": "1",
+            "unidad": "unidad"
+        },
+        {
+            "nombre": "pimentón",
+            "cantidad": "1",
+            "unidad": "unidad"
+        },
+        {
+            "nombre": "agua",
+            "cantidad": "2",
+            "unidad": "tazas"
+        }
+    ],
+    "pasos": [
+        "Sofreír la cebolla y el pimentón picados.",
+        "Agregar el pollo y dorar.",
+        "Añadir el arroz y mezclar bien.",
+        "Agregar el agua, tapar y cocinar a fuego bajo hasta que se absorba."
+    ],
+    "tiempo_minutos": 40,
+    "dificultad": "media",
+    "tipo": "almuerzo",
+    "etiquetas": [
+        "tradicional",
+        "completo",
+        "latino"
+    ],
+    "imagen": "https://www.paulinacocina.net/wp-content/uploads/2015/02/arroz-con-pollo-troceado-1736933708-1000x1000.jpg"
+}
