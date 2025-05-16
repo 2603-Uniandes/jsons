@@ -91,7 +91,7 @@
             "rápido",
             "económico"
         ],
-        "images": "https://cdn.elcocinerocasero.com/imagen/receta/1200/2023-02-24-20-41-28/tostadas-francesas.jpeg"
+        "imagen": "https://cdn.elcocinerocasero.com/imagen/receta/1200/2023-02-24-20-41-28/tostadas-francesas.jpeg"
     },
     {
         "id": 3,
@@ -138,7 +138,7 @@
             "rápido",
             "italiano"
         ],
-        "images": "https://d36fw6y2wq3bat.cloudfront.net/recipes/espaguetis-con-tomate-y-albahaca/900/espaguetis-con-tomate-y-albahaca.jpg"
+        "imagen": "https://d36fw6y2wq3bat.cloudfront.net/recipes/espaguetis-con-tomate-y-albahaca/900/espaguetis-con-tomate-y-albahaca.jpg"
     },
     {
         "id": 4,
