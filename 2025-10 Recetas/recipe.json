@@ -24,11 +24,6 @@
                 "nombre": "crutones",
                 "cantidad": "1",
                 "unidad": "taza"
-            },
-            {
-                "nombre": "aderezo César",
-                "cantidad": "4",
-                "unidad": "cucharadas"
             }
         ],
         "pasos": [
@@ -67,16 +62,6 @@
                 "nombre": "leche",
                 "cantidad": "100",
                 "unidad": "ml"
-            },
-            {
-                "nombre": "canela",
-                "cantidad": "1",
-                "unidad": "cucharadita"
-            },
-            {
-                "nombre": "mantequilla",
-                "cantidad": "1",
-                "unidad": "cucharada"
             }
         ],
         "pasos": [
@@ -216,11 +201,6 @@
                 "nombre": "pimentón",
                 "cantidad": "1",
                 "unidad": "unidad"
-            },
-            {
-                "nombre": "agua",
-                "cantidad": "2",
-                "unidad": "tazas"
             }
         ],
         "pasos": [
