@@ -2,6 +2,7 @@
     "id": 2,
     "nombre": "Tostadas Francesas",
     "porciones": 2,
+    "descripcion": "Desayuno dulce y rápido con pan bañado en mezcla de huevo y leche, dorado a la perfección.",
     "ingredientes": [
         {
             "nombre": "pan tajado",

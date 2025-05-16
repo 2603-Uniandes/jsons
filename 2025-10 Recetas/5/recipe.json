@@ -2,6 +2,7 @@
     "id": 5,
     "nombre": "Arroz con Pollo",
     "porciones": 4,
+    "descripcion": "Receta tradicional de arroz sazonado con pollo y vegetales, ideal para una comida familiar completa.",
     "ingredientes": [
         {
             "nombre": "arroz",

@@ -2,6 +2,7 @@
     "id": 4,
     "nombre": "Sopa de Verduras",
     "porciones": 4,
+    "descripcion": "Sopa ligera y nutritiva con vegetales variados, ideal para una cena reconfortante.",
     "ingredientes": [
         {
             "nombre": "zanahoria",

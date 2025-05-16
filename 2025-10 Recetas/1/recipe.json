@@ -2,6 +2,7 @@
     "id": 1,
     "nombre": "Ensalada César",
     "porciones": 2,
+    "descripcion": "Clásica ensalada fresca con pollo, crutones y aderezo César, ideal como almuerzo ligero.",
     "ingredientes": [
         {
             "nombre": "lechuga romana",

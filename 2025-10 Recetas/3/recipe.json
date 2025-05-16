@@ -2,6 +2,7 @@
     "id": 3,
     "nombre": "Pasta con Tomate y Albahaca",
     "porciones": 2,
+    "descripcion": "Plato vegetariano y rápido con sabores italianos frescos, perfecto para una comida ligera.",
     "ingredientes": [
         {
             "nombre": "pasta",

@@ -3,6 +3,7 @@
         "id": 1,
         "nombre": "Ensalada César",
         "porciones": 2,
+        "descripcion": "Clásica ensalada fresca con pollo, crutones y aderezo César, ideal como almuerzo ligero.",
         "ingredientes": [
             {
                 "nombre": "lechuga romana",
@@ -50,6 +51,7 @@
         "id": 2,
         "nombre": "Tostadas Francesas",
         "porciones": 2,
+        "descripcion": "Desayuno dulce y rápido con pan bañado en mezcla de huevo y leche, dorado a la perfección.",
         "ingredientes": [
             {
                 "nombre": "pan tajado",
@@ -97,6 +99,7 @@
         "id": 3,
         "nombre": "Pasta con Tomate y Albahaca",
         "porciones": 2,
+        "descripcion": "Plato vegetariano y rápido con sabores italianos frescos, perfecto para una comida ligera.",
         "ingredientes": [
             {
                 "nombre": "pasta",
@@ -144,6 +147,7 @@
         "id": 4,
         "nombre": "Sopa de Verduras",
         "porciones": 4,
+        "descripcion": "Sopa ligera y nutritiva con vegetales variados, ideal para una cena reconfortante.",
         "ingredientes": [
             {
                 "nombre": "zanahoria",
@@ -191,6 +195,7 @@
         "id": 5,
         "nombre": "Arroz con Pollo",
         "porciones": 4,
+        "descripcion": "Receta tradicional de arroz sazonado con pollo y vegetales, ideal para una comida familiar completa.",
         "ingredientes": [
             {
                 "nombre": "arroz",
